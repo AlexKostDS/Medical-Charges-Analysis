@@ -1,5 +1,3 @@
----
-
 # Medical Insurance Charges Data Analysis
 
 This project explores a medical insurance dataset containing demographic and health-related information such as age, sex, BMI, smoking status, number of children, region, and medical charges. The goal is to understand key factors influencing insurance charges and provide meaningful insights through statistical analysis.
