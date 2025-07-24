@@ -235,6 +235,3 @@ This project explores a medical insurance dataset containing demographic and hea
 
 This analysis reveals that **smoking status, age, and BMI** are the strongest predictors of medical insurance charges, with smokers paying substantially higher fees. Geographic differences and family size also influence costs but to a lesser extent. These insights could inform insurance pricing, personal health decisions, and regional healthcare policies.
 
----
-
-If you want, I can also help you format this as a proper README.md or presentation text with nice markdown styling or sections. Would you like that?
