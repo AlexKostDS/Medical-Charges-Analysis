@@ -1,7 +1,3 @@
-Got it! Thanks for sharing all the results. I’ll write detailed, clear, professional explanations for each question's findings — including interpretation, possible insights, and statistical thinking — as if you’re showcasing your data analysis skills in a portfolio README.
-
-Here’s a draft you can use or adapt:
-
 ---
 
 # Medical Insurance Charges Data Analysis
